@@ -55,7 +55,3 @@ webrtc_streamer(
     video_processor_factory=HandDrawingProcessor,
     rtc_configuration=rtc_configuration
 )
-
-
-
-
